@@ -411,7 +411,7 @@ video::-moz-controls div {
 .image-frame {
     width: 380px;
     height: 380px;
-/*     background-image: url(../images/h1.jpeg); */
+    background-image: url(../images/h1.jpeg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
